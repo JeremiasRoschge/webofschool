@@ -29,6 +29,6 @@ function uwu() {
 } 
   }
 
-var windows = new SO("Windows", "Sistema operativo dirigido al hogar, con algunas vulernabilidades")
-var linux = new SO("Linux", "Sistema operativo dirigdo a equipos de bajos recursos o algunas distribuciones de la misma al hacking.")
+const windows = new SO("Windows", "Sistema operativo dirigido al hogar, con algunas vulernabilidades")
+const linux = new SO("Linux", "Sistema operativo dirigdo a equipos de bajos recursos o algunas distribuciones de la misma al hacking.")
 
